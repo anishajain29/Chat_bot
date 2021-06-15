@@ -22,6 +22,7 @@ trainer.train(conversation)
 # Training with English Corpus Data 
 trainer_corpus = ChatterBotCorpusTrainer(chatbot, show_training_progress=False)
 trainer_corpus.train(
-    'chatterbot.corpus.english'
-    'chatterbot.corpus.hindi'
+    'chatterbot.corpus.english',
+    'chatterbot.corpus.hindi',
+    'Lib\custom'
 ) 
