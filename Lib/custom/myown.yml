@@ -2,53 +2,83 @@ categories:
 - My Own 
 - This is my own data
 conversations:
-- - Im having fever 
-  - Do you have chills and shivering?
-- - yes i have chills and shivering
-  - Do you have headache?
-- - yes i have headache
-  - Do you face loss of appetite?
-- - yes i face loss of appetite
-  - Do you face weakness?
-- - yes i face weakness
-  - Do you have dehydration? 
-- - yes i have dehydration
-  - Do you sweat?
-- - yes i do sweat
+- - english
+  - What are yo suffering with?
+- - fever
+  - Do you have sweating?
+- - yes i have sweating
   - is fever continuous?
 - - yes fever is continuous
-  - Do you have muscle Ache?
-- - yes i have muscle Ache
   - Do you have rashes?
-- - no i dont have rashes
-  - You might be suffering from viral fever. If the body aches more or the temperature is above 103F, consult a doctor immediately. Drink plenty of water and stay hydrated. Take proper rest. Avoid intake of junk foods and fizzy drinks. Drink herbal tea. Do not share your personal belonging with anyone to reduce chances of spread. Medication- if your fever is higher, you are experiencing discomfort or your fever lingers for more than 24 hours doctor may suggest you to take acetaminophen or ibuprofen.  Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center. 
-- - ok will look after viral fever
+- - no i don’t have rashes
+  - Do you have dry cough?
+- - no i don’t have dry cough
+  - You might be suffering from viral fever. If the body aches more or the temperature is above 103F, consult a doctor immediately.  Drink plenty of water and stay hydrated. Take proper rest. Avoid intake of junk foods and fizzy drinks. Drink herbal tea. Do not share your personal belonging with anyone to reduce chances of spread. Medication- if your fever is higher, you are experiencing discomfort or your fever lingers for more than 24 hours doctor may suggest you to take acetaminophen or ibuprofen.  Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.Do you want to start over?
+  - is fever continuous?
+- - no fever is not continuous
+  - Do you face sensitivity to light?
+- - no i don’t face sensitivity to light
+  - Do you have stomach pain?  
+- - no i don’t have stomach pain
+  - Do you have rashes?
+- - yes i have rashes
   - Do you have vomiting?
 - - yes i have vomiting
-  - Do you have Aches and pains in body?
-- - yes i have aches and pains in body
-  - Do you face sensitivity in light?  
-- - no i dont face sensitivity in light
-  - You might be suffering from dengue. Consult your healthcare doctor immediately, if you have symptoms of dengue. Rest as much as possible. Drink plenty of fluids to stay hydrated.  Severe dengue is medical emergency, if you have any warning signs of severe dengue such as vomiting blood or blood in the stool, bleeding from the nose or gums, feeling restless, vomiting more than 3 times in a day go to the emergency room immediately. Medication-  consult a doctor. For temporary relief acetaminophen or Tylenol may help to reduce muscle pain and fever. Warning- if you have dengue fever, you should avoid other pain killers including aspirin, ibuprofen and naproxen. Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.
-- - ok will look after dengue
-  - Do you have red eyes, face or tongue?
-- - yes i have red eyes, face or tongue
-  - Do you face decreased urination?
-- - yes i face decreased urination
-  - You might be suffering from yellow fever. Consult a doctor immediately, if you have symptoms of yellow fever. If the condition is severe it results in jaundice, your skin color and whites of the eyes may turn yellow,  you might face dark colored urine, clay colored stool, you may face severe abdominal pain. Rest as much as possible.  Drink plenty of fluids to stay hydrated. Medication- no specific treatment exists for yellow fever, taking preventive measures such as vaccination is important. However you can take pain killers as per doctor’s advice to reduce fever and aching. Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.
-- - ok will look after yellow fever
-  - Do you have swollen lymph nodes?
-- - yes i have swollen lymph nodes
-  - Do you face swelling in different parts of body?
-- - yes i face swelling in different parts of body
+  - You might be suffering from dengue. Consult your healthcare doctor immediately, if you have symptoms of dengue. Rest as much as possible.  Drink plenty of fluids to stay hydrated.  Severe dengue is medical emergency, if you have any warning signs of severe dengue such as vomiting blood or blood in the stool, bleeding from the nose or gums, feeling restless, vomiting more than 3 times in a day go to the emergency room immediately. Medication-  consult a doctor. For temporary relief acetaminophen or Tylenol may help to reduce muscle pain and fever. Warning- if you have dengue fever, you should avoid other pain killers including aspirin, ibuprofen and naproxen. Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center. Do you want to start over?
+  - Do you have sweating?
+- - no I don’t have sweating
+  - Do you face diarrhea or constipation?
+- - no i don’t face diarrhea or constipation
+  - Do you face sensitivity to light?
+- - yes i face sensitivity to light
+  - You might be suffering from yellow fever.  Consult a doctor immediately , if you have symptoms of yellow fever.  If the condition is severe it results in jaundice, your skin color and whites of the eyes may turn yellow,  you might face dark colored urine, clay colored stool, you may face severe abdominal pain. Rest as much as possible.  Drink plenty of fluids to stay hydrated. Medication- no specific treatment exists for yellow fever, taking preventive measures such as vaccination is important. However you can take pain killers as per doctor’s advice to reduce fever and aching. Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center. Do you want to start over?
+  - Do you have vomiting?
+- - no i don’t have vomiting
   - Do you have dry cough?
 - - yes i have dry cough
-  - Do you face tiredness? 
-- - yes i face tiredness
   - Do you face shortness of breath?
 - - yes i face shortness of breath
-  - You might be suffering from covid-19. Seek immediate medical attention if you have serious symptoms. People with mild symptoms can manage at home. The patient should be isolated in separate room. Provide good ventilation, shared spaces and open windows for sick person. A patient in severe condition may face constant trouble in breathing, persistent chest pain or pressure, needs medical  care immediately. Medication- WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for covid-19. Note- you need to take up covid-19 tests by healthcare.
-- - ok will look after covid-19
+  - You might be suffering from covid-19. Seek immediate medical attention if you have serious symptoms. People with mild symptoms can manage at home. The patient should be isolated in separate room. Provide good ventilation, shared spaces and open windows for sick person. A patient in severe condition may face constant trouble in breathing, persistent chest pain or pressure, needs medical  care immediately. Medication- WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for covid-19. Note- you need to take up covid-19 tests by healthcare. Do you want to start over?
+  - do you face shortness of breath?
+- - no I dont have shortness of breath
+  - Do you have stomach pain?
+- - yes I have stomach pain
+  - do you face diarrhea or constipation?
+- - yes I face diarrhea or constipation
+  - You might be suffering from typhoid fever. Consult a doctor immediately if you have symptoms of typhoid fever, if not treated patient may become delirious, lie motionless and exhausted with half eyes closed which is known as typhoid state. It may also lead to life threatening complications. Medication- you need to have a sample of blood or stool for salmonella typhi or salmonella paratyphi. consult a doctor for proper treatment and medication. Do you want to start over?
+- - Yes i want to start over
+  - What are you suffering with?
+- - no i dont want to start over
+  - Thank you
+- - Hindi
+  - आप किससे पीड़ित हैं
+- - बुखार
+  - क्या आपको पसीना आता है?
+- - हाँ मुझे पसीना आता है
+  - बुखार निरंतर है?
+- - हाँ मुझे बुखार निरंतर है
+  - क्या आपको मांसपेशियों में दर्द है?
+- - हाँ मुझे मांसपेशियों में दर्द है
+  - क्या आपको चकत्ते हैं?
+- - नहीं मुझे चकत्ते नहीं हैं
+  - क्या आपको सूखी खांसी है?
+- - नहीं मुझे सूखी खांसी नहीं है
+  - आप वायरल बुखार से पीड़ित हो सकते हैं। अगर शरीर में अधिक दर्द हो या तापमान 103°F से ऊपर हो, तो तुरंत डॉक्टर से सलाह लें। खूब पानी पिएं और हाइड्रेटेड रहें। उचित आराम करें। जंक फ़ूड और फ़िज़ी ड्रिंक्स के सेवन से बचें। हर्बल चाय पिएं। फैलने की संभावना को कम करने के लिए अपने निजी सामान को किसी के साथ साझा न करें। दवा- यदि आपका बुखार अधिक है, आप बेचैनी का अनुभव कर रहे हैं या आपका बुखार 24 घंटे से अधिक समय तक बना रहता है, तो डॉक्टर आपको एसिटामिनोफेन या इबुप्रोफेन लेने का सुझाव दे सकते हैं। नोट- बुखार होने पर डॉक्टर अक्सर आपकी मेडिकल हिस्ट्री और शारीरिक जांच के जरिए आपका निदान कर सकते हैं। वायरल या बैक्टीरियल संक्रमण का पता लगाने के लिए डॉक्टर रक्त या मूत्र परीक्षण का आदेश दे सकते हैं। यदि आपका तापमान अधिक संख्या में बढ़ गया है, तो आपको अपने स्थानीय तत्काल देखभाल केंद्र में चिकित्सा सहायता लेनी चाहिए।
+- - Kannada
+  - ನೀವು ಯಾವುದರಿಂದ ಬಳಲುತ್ತಿದ್ದೀರಿ?
+- - ಜ್ವರ
+  - ನಿಮಗೆ ಬೆವರು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಬೆವರು ಇದೆ
+  - ಜ್ವರ ನಿರಂತರವಾಗಿದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಜ್ವರ ನಿರಂತರವಾಗಿದೆ
+  - ನಿಮಗೆ ಸ್ನಾಯು ನೋವು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಸ್ನಾಯು ನೋವು ಇದೆ
+  - ನಿಮಗೆ ದದ್ದುಗಳು ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ದದ್ದುಗಳು ಇಲ್ಲ
+  - ನಿಮಗೆ ಒಣ ಕೆಮ್ಮು ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ಒಣ ಕೆಮ್ಮು ಇಲ್ಲ
+  - ನೀವು ವೈರಲ್ ಜ್ವರದಿಂದ ಬಳಲುತ್ತಿರಬಹುದು. ದೇಹವು ಹೆಚ್ಚು ನೋವುಂಟುಮಾಡಿದರೆ ಅಥವಾ ತಾಪಮಾನವು 103 ° F ಗಿಂತ ಹೆಚ್ಚಿದ್ದರೆ, ತಕ್ಷಣ ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ. ಸಾಕಷ್ಟು ನೀರು ಕುಡಿಯಿರಿ ಮತ್ತು ಹೈಡ್ರೀಕರಿಸಿದಂತೆ ಇರಿ. ಸರಿಯಾದ ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಳ್ಳಿ. ಜಂಕ್ ಫುಡ್ಸ್ ಮತ್ತು ಫಿಜಿ ಪಾನೀಯಗಳನ್ನು ಸೇವಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ. ಗಿಡಮೂಲಿಕೆ ಚಹಾವನ್ನು ಕುಡಿಯಿರಿ. ಹರಡುವ ಸಾಧ್ಯತೆಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನಿಮ್ಮ ವೈಯಕ್ತಿಕತೆಯನ್ನು ಯಾರೊಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ. ಔಷಧೀಕರಣ - ನಿಮ್ಮ ಜ್ವರ ಹೆಚ್ಚಿದ್ದರೆ, ನೀವು ಅಸ್ವಸ್ಥತೆಯನ್ನು ಅನುಭವಿಸುತ್ತಿದ್ದೀರಿ ಅಥವಾ ನಿಮ್ಮ ಜ್ವರವು 24 ಗಂಟೆಗಳಿಗಿಂತ ಹೆಚ್ಚು ಕಾಲ ಇರುತ್ತದೆ ಅಸಿಟಮಿನೋಫೆನ್ ಅಥವಾ ಐಬುಪ್ರೊಫೇನ್ ತೆಗೆದುಕೊಳ್ಳಲು ವೈದ್ಯರು ನಿಮಗೆ ಸೂಚಿಸಬಹುದು. ಗಮನಿಸಿ- ನಿಮಗೆ ಜ್ವರ ಬಂದಾಗ ವೈದ್ಯರು ವೈದ್ಯಕೀಯ ಇತಿಹಾಸ ಮತ್ತು ದೈಹಿಕ ಪರೀಕ್ಷೆಯ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಪತ್ತೆ ಹಚ್ಚಬಹುದು. ವೈರಲ್ ಅಥವಾ ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಸೋಂಕನ್ನು ಗುರುತಿಸಲು ವೈದ್ಯರು ರಕ್ತ ಅಥವಾ ಮೂತ್ರ ಪರೀಕ್ಷೆಗೆ ಆದೇಶಿಸಬಹುದು. ನಿಮ್ಮ ತಾಪಮಾನವು ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಗೆ ಏರಿದ್ದರೆ, ನಿಮ್ಮ ಸ್ಥಳೀಯ ತುರ್ತು ಆರೈಕೆ ಕೇಂದ್ರದಲ್ಲಿ ನೀವು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಬೇಕು.
+
 
 
 
