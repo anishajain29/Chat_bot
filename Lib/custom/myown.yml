@@ -13,7 +13,7 @@ conversations:
 - - no i don’t have rashes
   - Do you have dry cough?
 - - no i don’t have dry cough
-  - You might be suffering from viral fever. If the body aches more or the temperature is above 103F, consult a doctor immediately.  Drink plenty of water and stay hydrated. Take proper rest. Avoid intake of junk foods and fizzy drinks. Drink herbal tea. Do not share your personal belonging with anyone to reduce chances of spread. Medication- if your fever is higher, you are experiencing discomfort or your fever lingers for more than 24 hours doctor may suggest you to take acetaminophen or ibuprofen.  Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.Do you want to start over?
+  - You might be suffering from viral fever. If the body aches more or the temperature is above 103F, consult a doctor immediately.  Drink plenty of water and stay hydrated. Take proper rest. Avoid intake of junk foods and fizzy drinks. Drink herbal tea. Do not share your personal belonging with anyone to reduce chances of spread. Medication- if your fever is higher, you are experiencing discomfort or your fever lingers for more than 24 hours doctor may suggest you to take acetaminophen or ibuprofen.  Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.
   - is fever continuous?
 - - no fever is not continuous
   - Do you face sensitivity to light?
@@ -24,34 +24,38 @@ conversations:
 - - yes i have rashes
   - Do you have vomiting?
 - - yes i have vomiting
-  - You might be suffering from dengue. Consult your healthcare doctor immediately, if you have symptoms of dengue. Rest as much as possible.  Drink plenty of fluids to stay hydrated.  Severe dengue is medical emergency, if you have any warning signs of severe dengue such as vomiting blood or blood in the stool, bleeding from the nose or gums, feeling restless, vomiting more than 3 times in a day go to the emergency room immediately. Medication-  consult a doctor. For temporary relief acetaminophen or Tylenol may help to reduce muscle pain and fever. Warning- if you have dengue fever, you should avoid other pain killers including aspirin, ibuprofen and naproxen. Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.Do you want to start over?
+  - You might be suffering from dengue. Consult your healthcare doctor immediately, if you have symptoms of dengue. Rest as much as possible.  Drink plenty of fluids to stay hydrated.  Severe dengue is medical emergency, if you have any warning signs of severe dengue such as vomiting blood or blood in the stool, bleeding from the nose or gums, feeling restless, vomiting more than 3 times in a day go to the emergency room immediately. Medication-  consult a doctor. For temporary relief acetaminophen or Tylenol may help to reduce muscle pain and fever. Warning- if you have dengue fever, you should avoid other pain killers including aspirin, ibuprofen and naproxen. Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.
   - Do you have sweating?
 - - no I don’t have sweating
   - Do you face diarrhea or constipation?
 - - no i don’t face diarrhea or constipation
   - Do you face sensitivity to light?
 - - yes i face sensitivity to light
-  - You might be suffering from yellow fever.  Consult a doctor immediately , if you have symptoms of yellow fever.  If the condition is severe it results in jaundice, your skin color and whites of the eyes may turn yellow,  you might face dark colored urine, clay colored stool, you may face severe abdominal pain. Rest as much as possible.  Drink plenty of fluids to stay hydrated. Medication- no specific treatment exists for yellow fever, taking preventive measures such as vaccination is important. However you can take pain killers as per doctor’s advice to reduce fever and aching. Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.Do you want to start over?
+  - You might be suffering from yellow fever.  Consult a doctor immediately , if you have symptoms of yellow fever.  If the condition is severe it results in jaundice, your skin color and whites of the eyes may turn yellow,  you might face dark colored urine, clay colored stool, you may face severe abdominal pain. Rest as much as possible.  Drink plenty of fluids to stay hydrated. Medication- no specific treatment exists for yellow fever, taking preventive measures such as vaccination is important. However you can take pain killers as per doctor’s advice to reduce fever and aching. Note- doctor often can diagnose you through a medical history and physical exam when you have fever. The doctor may order blood or urine test to pinpoint a viral or bacterial infection. If your temperature has spiked to a high number, you should seek medical attention at your local urgent care center.
   - Do you have vomiting?
 - - no i don’t have vomiting
   - Do you have dry cough?
 - - yes i have dry cough
   - Do you face shortness of breath?
 - - yes i face shortness of breath
-  - You might be suffering from covid-19. Seek immediate medical attention if you have serious symptoms. People with mild symptoms can manage at home. The patient should be isolated in separate room. Provide good ventilation, shared spaces and open windows for sick person. A patient in severe condition may face constant trouble in breathing, persistent chest pain or pressure, needs medical  care immediately. Medication- WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for covid-19. Note- you need to take up covid-19 tests by healthcare. Do you want to start over?
+  - You might be suffering from covid-19. Seek immediate medical attention if you have serious symptoms. People with mild symptoms can manage at home. The patient should be isolated in separate room. Provide good ventilation, shared spaces and open windows for sick person. A patient in severe condition may face constant trouble in breathing, persistent chest pain or pressure, needs medical  care immediately. Medication- WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for covid-19. Note- you need to take up covid-19 tests by healthcare.
   - do you face shortness of breath?
 - - no I dont have shortness of breath
   - Do you have stomach pain?
 - - yes I have stomach pain
   - do you face diarrhea or constipation?
 - - yes I face diarrhea or constipation
-  - You might be suffering from typhoid fever. Consult a doctor immediately if you have symptoms of typhoid fever, if not treated patient may become delirious, lie motionless and exhausted with half eyes closed which is known as typhoid state. It may also lead to life threatening complications. Medication- you need to have a sample of blood or stool for salmonella typhi or salmonella paratyphi. consult a doctor for proper treatment and medication. Do you want to start over?
-- - Yes i want to start over
+  - You might be suffering from typhoid fever. Consult a doctor immediately if you have symptoms of typhoid fever, if not treated patient may become delirious, lie motionless and exhausted with half eyes closed which is known as typhoid state. It may also lead to life threatening complications. Medication- you need to have a sample of blood or stool for salmonella typhi or salmonella paratyphi. consult a doctor for proper treatment and medication.
+- - thank you
+  - Do you want to start over?
+- - i want to start over
   - What are you suffering with?
 - - no i dont want to start over
-  - Thank you
+  - Feel free to approach me whenever you want.
 - - Hindi
-  - आप किससे पीड़ित हैं
+  - आप किससे पीड़ित हैं?
+- - हिंदी
+  - आप किससे पीड़ित हैं?
 - - बुखार
   - क्या आपको पसीना आता है?
 - - हाँ मुझे पसीना आता है
@@ -64,7 +68,82 @@ conversations:
   - क्या आपको सूखी खांसी है?
 - - नहीं मुझे सूखी खांसी नहीं है
   - आप वायरल बुखार से पीड़ित हो सकते हैं। अगर शरीर में अधिक दर्द हो या तापमान 103°F से ऊपर हो, तो तुरंत डॉक्टर से सलाह लें। खूब पानी पिएं और हाइड्रेटेड रहें। उचित आराम करें। जंक फ़ूड और फ़िज़ी ड्रिंक्स के सेवन से बचें। हर्बल चाय पिएं। फैलने की संभावना को कम करने के लिए अपने निजी सामान को किसी के साथ साझा न करें। दवा- यदि आपका बुखार अधिक है, आप बेचैनी का अनुभव कर रहे हैं या आपका बुखार 24 घंटे से अधिक समय तक बना रहता है, तो डॉक्टर आपको एसिटामिनोफेन या इबुप्रोफेन लेने का सुझाव दे सकते हैं। नोट- बुखार होने पर डॉक्टर अक्सर आपकी मेडिकल हिस्ट्री और शारीरिक जांच के जरिए आपका निदान कर सकते हैं। वायरल या बैक्टीरियल संक्रमण का पता लगाने के लिए डॉक्टर रक्त या मूत्र परीक्षण का आदेश दे सकते हैं। यदि आपका तापमान अधिक संख्या में बढ़ गया है, तो आपको अपने स्थानीय तत्काल देखभाल केंद्र में चिकित्सा सहायता लेनी चाहिए।
+  - बुखार निरंतर है?
+- - नहीं मुझे बुखार निरंतर नहीं है
+  - क्या आप प्रकाश के प्रति संवेदनशीलता का सामना करते हैं?
+- - नहीं मैं प्रकाश के प्रति संवेदनशीलता का सामना मैं नहीं करता हूं
+  - क्या आपको पेट में दर्द है?
+- - नहीं मेरे पेट में दर्द नहीं है
+  - क्या आपको पसीना आता है?
+- - हाँ मुझे पसीना आता है
+  - क्या आपको चकत्ते हैं?
+- - हाँ मुझे चकत्ते हैं
+  - क्या आपको उल्टी हो रही है?
+- - हाँ मुझे उल्टी हो रही है
+  - क्या आपको मांसपेशियों में दर्द है?
+- - हाँ मुझे मांसपेशियों में दर्द है
+  - आप डेंगू से पीड़ित हो सकते हैं। डेंगू के लक्षण दिखने पर तुरंत डॉक्टर से संपर्क करें। जितना हो सके आराम करें। हाइड्रेटेड रहने के लिए खूब सारे तरल पदार्थ पिएं। गंभीर डेंगू मेडिकल इमरजेंसी है, अगर आपको गंभीर डेंगू के कोई चेतावनी संकेत हैं जैसे मल में खून या खून की उल्टी, नाक या मसूड़ों से खून बह रहा है, बेचैनी महसूस हो रही है, दिन में 3 बार से ज्यादा उल्टी हो रही है तो तुरंत आपातकालीन कक्ष में जाएं। दवा- डॉक्टर से सलाह लें। अस्थायी राहत के लिए एसिटामिनोफेन या टाइलेनॉल मांसपेशियों में दर्द और बुखार को कम करने में मदद कर सकता है। चेतावनी- यदि आपको डेंगू बुखार है, तो आपको एस्पिरिन, इबुप्रोफेन और नेप्रोक्सन सहित अन्य दर्द निवारक दवाओं से बचना चाहिए। नोट-बुखार होने पर डॉक्टर अक्सर आपकी मेडिकल हिस्ट्री और शारीरिक जांच के जरिए आपका निदान कर सकते हैं। वायरल या बैक्टीरियल संक्रमण का पता लगाने के लिए डॉक्टर रक्त या मूत्र परीक्षण का आदेश दे सकते हैं। यदि आपका तापमान अधिक संख्या में बढ़ गया है, तो आपको अपने स्थानीय तत्काल देखभाल केंद्र में चिकित्सा सहायता लेनी चाहिए।
+  - क्या आपको पसीना आता है?
+- - नहीं मुझे पसीना आता नहीं है
+  - क्या आपको चकत्ते हैं?
+- - नहीं मुझे चकत्ते नहीं हैं
+  - क्या आपको दस्त या कब्ज का सामना करना पड़ता है?
+- - नहीं दस्त या कब्ज का सामना करना नहीं पड़ता है
+  - क्या आप प्रकाश के प्रति संवेदनशीलता का सामना करते हैं?
+- - हाँ मैं प्रकाश के प्रति संवेदनशीलता का सामना सामना कर पाता हूं
+  - क्या आपके पास लाल आंखें, चेहरा या जीभ है?
+- - हाँ मेरे पास लाल आंखें, चेहरा या जीभ है
+  - क्या आपको पेशाब में कमी का सामना करना पड़ता है?
+- - हाँ मुझे पेशाब में कमी का सामना करना पड़ता है
+  - आप पीले बुखार से पीड़ित हो सकते हैं। पीले बुखार के लक्षण दिखने पर तुरंत डॉक्टर से सलाह लें। यदि स्थिति गंभीर है तो इसका परिणाम पीलिया हो सकता है, आपकी त्वचा का रंग और आंखों का सफेद भाग पीला हो सकता है, आपको गहरे रंग का मूत्र, मिट्टी के रंग का मल हो सकता है, आपको पेट में तेज दर्द हो सकता है। जितना हो सके आराम करें। हाइड्रेटेड रहने के लिए खूब सारे तरल पदार्थ पिएं। दवा- पीले बुखार के लिए कोई विशिष्ट उपचार मौजूद नहीं है, टीकाकरण जैसे निवारक उपाय करना महत्वपूर्ण है। हालांकि आप बुखार और दर्द को कम करने के लिए डॉक्टर की सलाह के अनुसार दर्द निवारक दवाएं ले सकते हैं। नोट- बुखार होने पर डॉक्टर अक्सर आपकी मेडिकल हिस्ट्री और शारीरिक जांच के जरिए आपका निदान कर सकते हैं। वायरल या बैक्टीरियल संक्रमण का पता लगाने के लिए डॉक्टर रक्त या मूत्र परीक्षण का आदेश दे सकते हैं। यदि आपका तापमान अधिक संख्या में बढ़ गया है, तो आपको अपने स्थानीय तत्काल देखभाल केंद्र में चिकित्सा सहायता लेनी चाहिए।
+  - क्या आपको मांसपेशियों में दर्द है?
+- - नहीं मुझे मांसपेशियों में दर्द नहीं है
+  - क्या आपके पास लाल आंखें, चेहरा या जीभ है?
+- - नहीं मेरे पास लाल आंखें, चेहरा या जीभ नहीं है
+  - क्या आपको पेशाब में कमी का सामना करना पड़ता है?
+- - नहीं मेरे पेशाब में कमी का सामना है करना पड़ता है
+  - क्या आपके लिम्फ नोड्स में सूजन है?
+- - हाँ मुझे लिम्फ नोड्स में सूजन है
+  - क्या आप शरीर के विभिन्न हिस्सों में सूजन का सामना करते हैं?
+- - हाँ मैं शरीर के विभिन्न हिस्सों में सूजन का सामना करता हूं
+  - आप जीवाणु बुखार से पीड़ित हो सकते हैं। यदि स्थिति मध्यम से गंभीर है, तो डॉक्टर से परामर्श लें। जितना हो सके आराम करें। हाइड्रेटेड रहने के लिए खूब सारे तरल पदार्थ पिएं। हर्बल चाय पिएं। हल्के कपड़े पहनें। जीवाणु बुखार एक व्यक्ति से दूसरे व्यक्ति में नहीं फैलता है, बल्कि दूसरे तरीके से प्राप्त होता है। ये संक्रमण अक्सर संक्रमित जानवर के काटने से फैलता है। दवा-आपके बुखार के कारण के आधार पर, डॉक्टर निमोनिया या स्ट्रेप थ्रोट जैसे संक्रमणों के लिए एंटीबायोटिक्स लिख सकते हैं। नोट-बुखार होने पर डॉक्टर अक्सर आपकी मेडिकल हिस्ट्री और शारीरिक जांच के जरिए आपका निदान कर सकते हैं। वायरल या बैक्टीरियल संक्रमण का पता लगाने के लिए डॉक्टर रक्त या मूत्र परीक्षण का आदेश दे सकते हैं। यदि आपका तापमान अधिक संख्या में बढ़ गया है, तो आपको अपने स्थानीय तत्काल देखभाल केंद्र में चिकित्सा सहायता लेनी चाहिए।
+  - क्या आपको उल्टी हो रही है?
+- - नहीं मुझे उल्टी नहीं हो रही है
+  - क्या आपके लिम्फ नोड्स में सूजन है?
+- - नहीं मुझे लिम्फ नोड्स में सूजन नहीं है
+  - क्या आप शरीर के विभिन्न हिस्सों में सूजन का सामना करते हैं?
+- - नहीं मेरे शरीर के विभिन्न हिस्सों में सूजन का सामना नहीं करता हूं
+  - क्या आपका पेट बहुत सूज गया है?
+- - नहीं मेरे पेट बहुत सूज नहीं गया है
+  - क्या आपको सूखी खांसी है?
+- - हाँ मुझे सूखी खांसी है
+  - क्या आपको सांस की तकलीफ का सामना करना पड़ता है?
+- - हाँ मुझे सांस की तकलीफ का सामना करना पड़ता है
+  - क्या आपके गले में खराश है?
+- - हाँ मेरे गले में खराश है
+  - आप कोविड-19 से पीड़ित हो सकते हैं। गंभीर लक्षण होने पर तत्काल चिकित्सा की तलाश करें। हल्के लक्षण वाले लोग घर पर ही इलाज कर सकते हैं। रोगी को अलग कमरे में पृथक किया जाना चाहिए। बीमार व्यक्ति के लिए अच्छा वेंटिलेशन, साझा स्थान और खुली खिड़कियां प्रदान करें। गंभीर स्थिति में रोगी को सांस लेने में लगातार परेशानी, सीने में लगातार दर्द या दबाव का सामना करना पड़ सकता है, तुरंत चिकित्सा देखभाल की आवश्यकता होती है। दवा-WHO कोविड-19 की रोकथाम या इलाज के रूप में एंटीबायोटिक दवाओं सहित किसी भी दवा के साथ स्व-दवा की सिफारिश नहीं करता है। ध्यान दें-आपको स्वास्थ्य सेवा द्वारा कोविड -19 परीक्षण करने की आवश्यकता है।
+  - क्या आपको सूखी खांसी है?
+- - हाँ मुझे सूखी खांसी है
+  - क्या आपको सांस की तकलीफ का सामना करना पड़ता है?
+- - नहीं मुझे सांस की तकलीफ का सामना करना पड़ता है
+  - क्या आपके गले में खराश है?
+- - नहीं मेरे गले में खराश है
+  - क्या आपको पेट में दर्द है?
+- - हाँ मेरे पेट में दर्द है
+  - क्या आपको दस्त या कब्ज का सामना करना पड़ता है?
+- - हाँ मेरे दस्त या कब्ज का सामना करना पड़ता है
+  - क्या आपका पेट बहुत सूज गया है?
+- - हाँ मेरे पेट बहुत सूज गया है
+  - आप टाइफाइड बुखार से पीड़ित हो सकते हैं। यदि आपको टाइफाइड बुखार के लक्षण हैं, यदि रोगी का इलाज नहीं किया जाता है, तो वह बेहोश हो सकता है, आधी आँखें बंद करके गतिहीन और थका हुआ हो सकता है, जिसे टाइफाइड अवस्था के रूप में जाना जाता है, तो तुरंत डॉक्टर से परामर्श लें। यह जीवन के लिए खतरनाक जटिलताएं भी पैदा कर सकता है। दवा-साल्मोनेला टाइफी या साल्मोनेला पैराटाइफी के लिए आपके पास रक्त या मल का एक नमूना होना चाहिए। उचित उपचार और दवा के लिए डॉक्टर से सलाह लें।
+- - जी शुक्रिया
+  - क्या आप फिर से शुरू करना चाहते हैं?
+- - हाँ मैं फिर से शुरू करना चाहता हूँ
+  - आप किससे पीड़ित हैं?
+- - नहीं, मैं फिर से शुरू नहीं करना चाहता
+  - जब भी आप चाहें मुझसे बेझिझक संपर्क करें।
 - - Kannada
+  - ನೀವು ಯಾವುದರಿಂದ ಬಳಲುತ್ತಿದ್ದೀರಿ?
+- - ಕನ್ನಡ
   - ನೀವು ಯಾವುದರಿಂದ ಬಳಲುತ್ತಿದ್ದೀರಿ?
 - - ಜ್ವರ
   - ನಿಮಗೆ ಬೆವರು ಇದೆಯೇ?
@@ -78,7 +157,76 @@ conversations:
   - ನಿಮಗೆ ಒಣ ಕೆಮ್ಮು ಇದೆಯೇ?
 - - ಇಲ್ಲ ನನಗೆ ಒಣ ಕೆಮ್ಮು ಇಲ್ಲ
   - ನೀವು ವೈರಲ್ ಜ್ವರದಿಂದ ಬಳಲುತ್ತಿರಬಹುದು. ದೇಹವು ಹೆಚ್ಚು ನೋವುಂಟುಮಾಡಿದರೆ ಅಥವಾ ತಾಪಮಾನವು 103 ° F ಗಿಂತ ಹೆಚ್ಚಿದ್ದರೆ, ತಕ್ಷಣ ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ. ಸಾಕಷ್ಟು ನೀರು ಕುಡಿಯಿರಿ ಮತ್ತು ಹೈಡ್ರೀಕರಿಸಿದಂತೆ ಇರಿ. ಸರಿಯಾದ ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಳ್ಳಿ. ಜಂಕ್ ಫುಡ್ಸ್ ಮತ್ತು ಫಿಜಿ ಪಾನೀಯಗಳನ್ನು ಸೇವಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ. ಗಿಡಮೂಲಿಕೆ ಚಹಾವನ್ನು ಕುಡಿಯಿರಿ. ಹರಡುವ ಸಾಧ್ಯತೆಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನಿಮ್ಮ ವೈಯಕ್ತಿಕತೆಯನ್ನು ಯಾರೊಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ. ಔಷಧೀಕರಣ - ನಿಮ್ಮ ಜ್ವರ ಹೆಚ್ಚಿದ್ದರೆ, ನೀವು ಅಸ್ವಸ್ಥತೆಯನ್ನು ಅನುಭವಿಸುತ್ತಿದ್ದೀರಿ ಅಥವಾ ನಿಮ್ಮ ಜ್ವರವು 24 ಗಂಟೆಗಳಿಗಿಂತ ಹೆಚ್ಚು ಕಾಲ ಇರುತ್ತದೆ ಅಸಿಟಮಿನೋಫೆನ್ ಅಥವಾ ಐಬುಪ್ರೊಫೇನ್ ತೆಗೆದುಕೊಳ್ಳಲು ವೈದ್ಯರು ನಿಮಗೆ ಸೂಚಿಸಬಹುದು. ಗಮನಿಸಿ- ನಿಮಗೆ ಜ್ವರ ಬಂದಾಗ ವೈದ್ಯರು ವೈದ್ಯಕೀಯ ಇತಿಹಾಸ ಮತ್ತು ದೈಹಿಕ ಪರೀಕ್ಷೆಯ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಪತ್ತೆ ಹಚ್ಚಬಹುದು. ವೈರಲ್ ಅಥವಾ ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಸೋಂಕನ್ನು ಗುರುತಿಸಲು ವೈದ್ಯರು ರಕ್ತ ಅಥವಾ ಮೂತ್ರ ಪರೀಕ್ಷೆಗೆ ಆದೇಶಿಸಬಹುದು. ನಿಮ್ಮ ತಾಪಮಾನವು ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಗೆ ಏರಿದ್ದರೆ, ನಿಮ್ಮ ಸ್ಥಳೀಯ ತುರ್ತು ಆರೈಕೆ ಕೇಂದ್ರದಲ್ಲಿ ನೀವು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಬೇಕು.
-
-
-
-
+  - ಜ್ವರ ನಿರಂತರವಾಗಿದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ಜ್ವರ ನಿರಂತರವಾಗಿಲ್ಲ
+  - ನೀವು ಬೆಳಕಿಗೆ ಸೂಕ್ಷ್ಮತೆಯನ್ನು ಎದುರಿಸುತ್ತೀರಾ?
+- - ಇಲ್ಲ ನನಗೆ ಬೆಳಕಿಗೆ ಸೂಕ್ಷ್ಮತೆ ಇಲ್ಲ
+  - ನಿಮಗೆ ಹೊಟ್ಟೆ ನೋವು ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ಹೊಟ್ಟೆ ನೋವು ಇಲ್ಲ
+  - ನಿಮಗೆ ಬೆವರು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಬೆವರು ಇದೆ
+  - ನಿಮಗೆ ದದ್ದುಗಳು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ದದ್ದುಗಳು ಇದೆ
+  - ನಿಮಗೆ ವಾಂತಿ ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ವಾಂತಿ ಇದೆ
+  - ನಿಮಗೆ ಸ್ನಾಯು ನೋವು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಸ್ನಾಯು ನೋವು ಇದೆ
+  - ನೀವು ಡೆಂಗ್ಯೂ ಕಾಯಿಲೆಯಿಂದ ಬಳಲುತ್ತಿರಬಹುದು. ನೀವು ಡೆಂಗ್ಯೂ ರೋಗಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿದ್ದರೆ ತಕ್ಷಣ ನಿಮ್ಮ ಆರೋಗ್ಯ ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ. ಸಾಧ್ಯವಾದಷ್ಟು ವಿಶ್ರಾಂತಿ. ಹೈಡ್ರೀಕರಿಸಿದಂತೆ ಉಳಿಯಲು ಸಾಕಷ್ಟು ದ್ರವಗಳನ್ನು ಕುಡಿಯಿರಿ. ತೀವ್ರವಾದ ಡೆಂಗ್ಯೂ ವೈದ್ಯಕೀಯ ತುರ್ತುಸ್ಥಿತಿ, ನೀವು ಮಲದಲ್ಲಿನ ರಕ್ತ ಅಥವಾ ರಕ್ತವನ್ನು ವಾಂತಿ ಮಾಡುವುದು, ಮೂಗು ಅಥವಾ ಒಸಡುಗಳಿಂದ ರಕ್ತಸ್ರಾವ, ಚಡಪಡಿಕೆ ಅನುಭವಿಸುವುದು, ದಿನದಲ್ಲಿ 3 ಕ್ಕೂ ಹೆಚ್ಚು ಬಾರಿ ವಾಂತಿ ಮಾಡುವುದು ಮುಂತಾದ ತೀವ್ರವಾದ ಡೆಂಗ್ಯೂ ಚಿಹ್ನೆಗಳು ಇದ್ದರೆ ತಕ್ಷಣ ತುರ್ತು ಕೋಣೆಗೆ ಹೋಗಿ. ಔಷಧೀಕರಣ -ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ. ತಾತ್ಕಾಲಿಕ ಪರಿಹಾರಕ್ಕಾಗಿ ಅಸೆಟಾಮಿನೋಫೆನ್ ಅಥವಾ ಟೈಲೆನಾಲ್ ಸ್ನಾಯು ನೋವು ಮತ್ತು ಜ್ವರವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಎಚ್ಚರಿಕೆ-ನಿಮಗೆ ಡೆಂಗ್ಯೂ ಜ್ವರ ಇದ್ದರೆ, ಆಸ್ಪಿರಿನ್, ಐಬುಪ್ರೊಫೇನ್ ಮತ್ತು ನ್ಯಾಪ್ರೊಕ್ಸೆನ್ ಸೇರಿದಂತೆ ಇತರ ನೋವು ನಿವಾರಕಗಳನ್ನು ನೀವು ತಪ್ಪಿಸಬೇಕು. ಗಮನಿ  - ನಿಮಗೆ ಜ್ವರ ಬಂದಾಗ ವೈದ್ಯರು ವೈದ್ಯಕೀಯ ಇತಿಹಾಸ ಮತ್ತು ದೈಹಿಕ ಪರೀಕ್ಷೆಯ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಪತ್ತೆ ಹಚ್ಚಬಹುದು. ವೈರಲ್ ಅಥವಾ ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಸೋಂಕನ್ನು ಗುರುತಿಸಲು ವೈದ್ಯರು ರಕ್ತ ಅಥವಾ ಮೂತ್ರ ಪರೀಕ್ಷೆಗೆ ಆದೇಶಿಸಬಹುದು. ನಿಮ್ಮ ತಾಪಮಾನವು ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಗೆ ಏರಿದ್ದರೆ, ನಿಮ್ಮ ಸ್ಥಳೀಯ ತುರ್ತು ಆರೈಕೆ ಕೇಂದ್ರದಲ್ಲಿ ನೀವು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಬೇಕು.
+  - ನಿಮಗೆ ಬೆವರು ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ಬೆವರು ಇಲ್ಲ
+  - ನಿಮಗೆ ದದ್ದುಗಳು ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ದದ್ದುಗಳು ಇಲ್ಲ
+  - ನೀವು ಅತಿಸಾರ ಅಥವಾ ಮಲಬದ್ಧತೆಯನ್ನು ಎದುರಿಸುತ್ತೀರಾ?
+- - ಇಲ್ಲ ನನಗೆ ಅತಿಸಾರ ಅಥವಾ ಮಲಬದ್ಧತೆ ಇಲ್ಲ
+  - ನೀವು ಬೆಳಕಿಗೆ ಸೂಕ್ಷ್ಮತೆಯನ್ನು ಎದುರಿಸುತ್ತೀರಾ?
+- - ಹೌದು ನನಗೆ ಬೆಳಕಿಗೆ ಸೂಕ್ಷ್ಮತೆ ಇದೆ
+  - ನಿಮಗೆ ಕೆಂಪು ಕಣ್ಣುಗಳು, ಮುಖ ಅಥವಾ ನಾಲಿಗೆ ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಕೆಂಪು ಕಣ್ಣುಗಳು, ಮುಖ ಅಥವಾ ನಾಲಿಗೆ ಇದೆ
+  - ನೀವು ಮೂತ್ರ ವಿಸರ್ಜನೆ ಕಡಿಮೆಯಾಗುತ್ತೀರಾ?
+- - ಹೌದು ನನಗೆ ಮೂತ್ರ ವಿಸರ್ಜನೆ ಕಡಿಮೆ ಇದೆ
+  - ನೀವು ಹಳದಿ ಜ್ವರದಿಂದ ಬಳಲುತ್ತಿರಬಹುದು. ನೀವು ಹಳದಿ ಜ್ವರದ ಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿದ್ದರೆ ತಕ್ಷಣ ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ. ಪರಿಸ್ಥಿತಿ ತೀವ್ರವಾಗಿದ್ದರೆ ಅದು ಕಾಮಾಲೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ, ನಿಮ್ಮ ಚರ್ಮದ ಬಣ್ಣ ಮತ್ತು ಕಣ್ಣುಗಳ ಬಿಳಿ ಬಣ್ಣವು ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಬಹುದು, ನೀವು ಗಾಡ ಬಣ್ಣದ ಮೂತ್ರ, ಮಣ್ಣಿನ ಬಣ್ಣದ ಮಲವನ್ನು ಎದುರಿಸಬೇಕಾಗಬಹುದು, ನೀವು ತೀವ್ರ ಹೊಟ್ಟೆ ನೋವನ್ನು ಎದುರಿಸಬೇಕಾಗುತ್ತದೆ. ಸಾಧ್ಯವಾದಷ್ಟು ವಿಶ್ರಾಂತಿ. ಹೈಡ್ರೀಕರಿಸಿದಂತೆ ಉಳಿಯಲು ಸಾಕಷ್ಟು ದ್ರವಗಳನ್ನು ಕುಡಿಯಿರಿ. ಔಷಧೀಕರಣ- ಹಳದಿ ಜ್ವರಕ್ಕೆ ಯಾವುದೇ ನಿರ್ದಿಷ್ಟ ಚಿಕಿತ್ಸೆ ಇಲ್ಲ, ವ್ಯಾಕ್ಸಿನೇಷನ್‌ನಂತಹ ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದು ಮುಖ್ಯವಾಗಿದೆ. ಆದರೆ ಜ್ವರ ಮತ್ತು ನೋವು ಕಡಿಮೆ ಮಾಡಲು ವೈದ್ಯರ ಸಲಹೆಯಂತೆ ನೀವು ನೋವು ನಿವಾರಕಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು. ಗಮನಿ  - ನಿಮಗೆ ಜ್ವರ ಬಂದಾಗ ವೈದ್ಯರು ವೈದ್ಯಕೀಯ ಇತಿಹಾಸ ಮತ್ತು ದೈಹಿಕ ಪರೀಕ್ಷೆಯ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಪತ್ತೆ ಹಚ್ಚಬಹುದು. ವೈರಲ್ ಅಥವಾ ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಸೋಂಕನ್ನು ಗುರುತಿಸಲು ವೈದ್ಯರು ರಕ್ತ ಅಥವಾ ಮೂತ್ರ ಪರೀಕ್ಷೆಗೆ ಆದೇಶಿಸಬಹುದು. ನಿಮ್ಮ ತಾಪಮಾನವು ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಗೆ ಏರಿದ್ದರೆ, ನಿಮ್ಮ ಸ್ಥಳೀಯ ತುರ್ತು ಆರೈಕೆ ಕೇಂದ್ರದಲ್ಲಿ ನೀವು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಬೇಕು.
+  - ನಿಮಗೆ ಸ್ನಾಯು ನೋವು ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ಸ್ನಾಯು ನೋವು ಇಲ್ಲ
+  - ನಿಮಗೆ ಕೆಂಪು ಕಣ್ಣುಗಳು, ಮುಖ ಅಥವಾ ನಾಲಿಗೆ ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ಕೆಂಪು ಕಣ್ಣುಗಳು, ಮುಖ ಅಥವಾ ನಾಲಿಗೆ ಇಲ್ಲ
+  - ನೀವು ಮೂತ್ರ ವಿಸರ್ಜನೆ ಕಡಿಮೆಯಾಗುತ್ತೀರಾ?
+- - ಇಲ್ಲ ನನಗೆ ಮೂತ್ರ ವಿಸರ್ಜನೆ ಕಡಿಮೆ ಇಲ್ಲ
+  - ನೀವು ದುಗ್ಧರಸ ಗ್ರಂಥಿಗಳನ್ನು ಹೊಂದಿದ್ದೀರಾ?
+- - ಹೌದು ನನಗೆ ದುಗ್ಧರಸ ಗ್ರಂಥಿಗಳು ಇದೆ
+  - ದೇಹದ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ನೀವು ಊತವನ್ನು ಎದುರಿಸುತ್ತೀರಾ?
+- - ಹೌದು ನನಗೆ ದೇಹದ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ಊತ ಇದೆ
+  - ನೀವು ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಜ್ವರದಿಂದ ಬಳಲುತ್ತಿರಬಹುದು. ಸ್ಥಿತಿಯು ಮಧ್ಯಮದಿಂದ ತೀವ್ರವಾಗಿದ್ದರೆ ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ. ಸಾಧ್ಯವಾದಷ್ಟು ವಿಶ್ರಾಂತಿ. ಹೈಡ್ರೀಕರಿಸಿದಂತೆ ಉಳಿಯಲು ಸಾಕಷ್ಟು ದ್ರವಗಳನ್ನು ಕುಡಿಯಿರಿ. ಗಿಡಮೂಲಿಕೆ ಚಹಾವನ್ನು ಕುಡಿಯಿರಿ. ಲಘು ಉಡುಪು ಧರಿಸಿ. ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಜ್ವರವು ಒಬ್ಬ ವ್ಯಕ್ತಿಯಿಂದ ಇನ್ನೊಬ್ಬರಿಗೆ ಹರಡುವುದಿಲ್ಲ, ಆದರೆ ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಸ್ವಾಧೀನಪಡಿಸಿಕೊಂಡಿದೆ. ಈ ಸೋಂಕುಗಳು ಹೆಚ್ಚಾಗಿ ಸೋಂಕಿತ ಪ್ರಾಣಿಗಳ ಕಚ್ಚುವಿಕೆಯ ಮೂಲಕ ಹರಡುತ್ತವೆ. ಔಷಧೀಕರಣ -ನಿಮ್ಮ ಜ್ವರದ ಕಾರಣವನ್ನು ಅವಲಂಬಿಸಿ, ನ್ಯುಮೋನಿಯಾ ಅಥವಾ ಸ್ಟ್ರೆಪ್ ಗಂಟಲಿನಂತಹ ಸೋಂಕುಗಳಿಗೆ ವೈದ್ಯರು ಪ್ರತಿಜೀವಕಗಳನ್ನು ಶಿಫಾರಸು ಮಾಡಬಹುದು. ಗಮನಿ - ನಿಮಗೆ ಜ್ವರ ಬಂದಾಗ ವೈದ್ಯರು ವೈದ್ಯಕೀಯ ಇತಿಹಾಸ ಮತ್ತು ದೈಹಿಕ ಪರೀಕ್ಷೆಯ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಪತ್ತೆ ಹಚ್ಚಬಹುದು. ವೈರಲ್ ಅಥವಾ ಬ್ಯಾಕ್ಟೀರಿಯಾದ ಸೋಂಕನ್ನು ಗುರುತಿಸಲು ವೈದ್ಯರು ರಕ್ತ ಅಥವಾ ಮೂತ್ರ ಪರೀಕ್ಷೆಗೆ ಆದೇಶಿಸಬಹುದು. ನಿಮ್ಮ ತಾಪಮಾನವು ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಗೆ ಏರಿದ್ದರೆ, ನಿಮ್ಮ ಸ್ಥಳೀಯ ತುರ್ತು ಆರೈಕೆ ಕೇಂದ್ರದಲ್ಲಿ ನೀವು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಬೇಕು.
+  - ನಿಮಗೆ ವಾಂತಿ ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ವಾಂತಿ ಇಲ್ಲ
+  - ನೀವು ದುಗ್ಧರಸ ಗ್ರಂಥಿಗಳನ್ನು ಹೊಂದಿದ್ದೀರಾ?
+- - ಇಲ್ಲ ನನಗೆ  ದುಗ್ಧರಸ ಗ್ರಂಥಿಗಳು ಇಲ್ಲ
+  - ದೇಹದ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ನೀವು ಊತವನ್ನು ಎದುರಿಸುತ್ತೀರಾ?
+- - ಇಲ್ಲ ನನಗೆ ನನಗೆ ದೇಹದ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ಊತ ಇಲ್ಲ
+  - ನಿಮ್ಮ ಹೊಟ್ಟೆ ತುಂಬಾ ಉಬ್ಬಿಕೊಂಡಿದೆಯೇ ?
+- - ಇಲ್ಲ ನನಗೆ ಹೊಟ್ಟೆ ತುಂಬಾ ಉಬ್ಬಿಕೊಂಡಿಲ್ಲ
+  - ನಿಮಗೆ ಒಣ ಕೆಮ್ಮು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಒಣ ಕೆಮ್ಮು ಇದೆ
+  - ನೀವು ಉಸಿರಾಟದ ತೊಂದರೆ ಎದುರಿಸುತ್ತೀರಾ?
+- - ಹೌದು ನನಗೆ ಉಸಿರಾಟದ ತೊಂದರೆ ಇದೆ
+  - ನಿಮಗೆ ನೋಯುತ್ತಿರುವ ಗಂಟಲು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ನೋಯುತ್ತಿರುವ ಗಂಟಲು ಇದೆ
+  - ನೀವು ಕೋವಿಡ್ -19 ನಿಂದ ಬಳಲುತ್ತಿರಬಹುದು. ನೀವು ಗಂಭೀರ ರೋಗಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿದ್ದರೆ ತಕ್ಷಣ ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಿರಿ. ಸೌಮ್ಯ ರೋಗಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುವ ಜನರು ಮನೆಯಲ್ಲಿ ನಿರ್ವಹಿಸಬಹುದು. ರೋಗಿಯನ್ನು ಪ್ರತ್ಯೇಕ ಕೋಣೆಯಲ್ಲಿ ಪ್ರತ್ಯೇಕಿಸಬೇಕು. ಅನಾರೋಗ್ಯದ ವ್ಯಕ್ತಿಗೆ ಉತ್ತಮ ವಾತಾಯನ, ಹಂಚಿದ ಸ್ಥಳಗಳು ಮತ್ತು ತೆರೆದ ಕಿಟಕಿಗಳನ್ನು ಒದಗಿಸಿ. ತೀವ್ರ ಸ್ಥಿತಿಯಲ್ಲಿರುವ ರೋಗಿಯು ಉಸಿರಾಟದಲ್ಲಿ ನಿರಂತರ ತೊಂದರೆ, ನಿರಂತರ ಎದೆ ನೋವು ಅಥವಾ ಒತ್ತಡವನ್ನು ಎದುರಿಸಬೇಕಾಗುತ್ತದೆ, ತಕ್ಷಣ ವೈದ್ಯಕೀಯ ಆರೈಕೆಯ ಅಗತ್ಯವಿರುತ್ತದೆ. ಔಷಧೀಕರಣ -ಕೋವಿಡ್ -19 ಅನ್ನು ತಡೆಗಟ್ಟಲು ಅಥವಾ ಗುಣಪಡಿಸಲು ಪ್ರತಿಜೀವಕಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಯಾವುದೇ ಔಷಧಿಗಳೊಂದಿಗೆ ಸ್ವಯಂ ಔಷಧಿಗಳನ್ನು WHO ಶಿಫಾರಸು ಮಾಡುವುದಿಲ್ಲ. ಗಮನಿ  - ನೀವು ಆರೋಗ್ಯ ರಕ್ಷಣೆಯಿಂದ ಕೋವಿಡ್ -19 ಪರೀಕ್ಷೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ.
+  - ನಿಮಗೆ ಒಣ ಕೆಮ್ಮು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಒಣ ಕೆಮ್ಮು ಇದೆ
+  - ನೀವು ಉಸಿರಾಟದ ತೊಂದರೆ ಎದುರಿಸುತ್ತೀರಾ?
+- - ಇಲ್ಲ ನನಗೆ ಉಸಿರಾಟದ ತೊಂದರೆ ಇಲ್ಲ
+  - ನಿಮಗೆ ನೋಯುತ್ತಿರುವ ಗಂಟಲು ಇದೆಯೇ?
+- - ಇಲ್ಲ ನನಗೆ ನೋಯುತ್ತಿರುವ ಗಂಟಲು ಇಲ್ಲ
+  - ನಿಮಗೆ ಹೊಟ್ಟೆ ನೋವು ಇದೆಯೇ?
+- - ಹೌದು ನನಗೆ ಹೊಟ್ಟೆ ನೋವು ಇದೆ
+  - ನೀವು ಅತಿಸಾರ ಅಥವಾ ಮಲಬದ್ಧತೆಯನ್ನು ಎದುರಿಸುತ್ತೀರಾ?
+- - ಹೌದು ನನಗೆ ಅತಿಸಾರ ಅಥವಾ ಮಲಬದ್ಧತೆ ಇದೆ
+  - ನಿಮ್ಮ ಹೊಟ್ಟೆ ತುಂಬಾ ಉಬ್ಬಿಕೊಂಡಿದೆಯೇ ?
+- - ಹೌದು ನನಗೆ ಹೊಟ್ಟೆ ತುಂಬಾ ಉಬ್ಬಿಕೊಂಡಿದೆ
+  - ನೀವು ಟೈಫಾಯಿಡ್ ಜ್ವರದಿಂದ ಬಳಲುತ್ತಿರಬಹುದು. ನೀವು ಟೈಫಾಯಿಡ್ ಜ್ವರದ ಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿದ್ದರೆ ತಕ್ಷಣ ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ, ಚಿಕಿತ್ಸೆ ನೀಡದಿದ್ದಲ್ಲಿ ರೋಗಿಯು ಭ್ರಮನಿರಸನವಾಗಬಹುದು, ಚಲನೆಯಿಲ್ಲದೆ ಮಲಗಬಹುದು ಮತ್ತು ಅರ್ಧ ಕಣ್ಣುಗಳನ್ನು ಮುಚ್ಚಿ ದಣಿದಿರಬಹುದು, ಇದನ್ನು ಟೈಫಾಯಿಡ್ ಸ್ಥಿತಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದು ಮಾರಣಾಂತಿಕ ತೊಡಕುಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು. ಔಷಧೀಕರಣ -ಸಾಲ್ಮೊನೆಲ್ಲಾ ಟೈಫಿ ಅಥವಾ ಸಾಲ್ಮೊನೆಲ್ಲಾ ಪ್ಯಾರಾಟಿಫಿಗಾಗಿ ನೀವು ರಕ್ತ ಅಥವಾ ಮಲದ ಮಾದರಿಯನ್ನು ಹೊಂದಿರಬೇಕು. ಸರಿಯಾದ ಚಿಕಿತ್ಸೆ ಮತ್ತು ಔಷಧಿಗಳಿಗಾಗಿ ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ.
+- - ಧನ್ಯವಾದಗಳು
+   - ನೀವು ಪ್ರಾರಂಭಿಸಲು ಬಯಸುವಿರಾ?
+- - ಹೌದು ನಾನು ಪ್ರಾರಂಭಿಸಲು ಬಯಸುತ್ತೇನೆ
+   - ನೀವು ಏನು ಬಳಲುತ್ತಿದ್ದೀರಿ?
+- - ಇಲ್ಲ ನಾನು ಪ್ರಾರಂಭಿಸಲು ಬಯಸುವುದಿಲ್ಲ
+   - ನಿಮಗೆ ಬೇಕಾದಾಗ ನನ್ನನ್ನು ಸಂಪರ್ಕಿಸಲು ಹಿಂಜರಿಯಬೇಡಿ.
